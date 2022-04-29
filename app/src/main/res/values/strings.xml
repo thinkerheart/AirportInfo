@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AirportInfo</string>
+    <string name="search">Search</string>
+    <string name="name">Name:</string>
+    <string name="location">Location:</string>
+    <string name="city">City:</string>
+    <string name="state">State:</string>
+    <string name="country">Country:</string>
+    <string name="code_postal">Postal Code:</string>
+    <string name="phone">Phone:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="website">Website:</string>
+    <string name="hint_input_iata">Type IATA here…</string>
+</resources>
